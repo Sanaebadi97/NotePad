@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':mnotepad'
 rootProject.name='NotePad'

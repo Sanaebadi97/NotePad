@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineEditText">
+        
+        <attr name="lineStyle" format="enum"/>
+        <attr name="strokeWidth" format="float"/>
+        <attr name="lineColor" format="integer"/>
+
+        
+    </declare-styleable>
+    
+</resources>
