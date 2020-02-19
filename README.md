@@ -32,3 +32,10 @@ Vertical Lines in EditText Like NotePad
         app:layout_constraintEnd_toEndOf="parent"
         app:lineColor="@android:color/black"
         app:strokeWidth="3" />
+	
+	
+	
+4.Output with strokeWidth =2 and  lineColor="@android:color/black"
+
+![Screenshot_2020-02-19_15-42-33](https://user-images.githubusercontent.com/26750131/74833440-b34d2580-532e-11ea-9fed-a6a0b80e3aeb.png)
+
