@@ -13,6 +13,8 @@ Vertical Lines in EditText Like NotePad
 	
 	
   
+  2.add dependencies to your build.gradle 
+  
   	dependencies {
 	        implementation 'com.github.Sanaebadi97:NotePad:Tag'
 	}
