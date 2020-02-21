@@ -19,6 +19,7 @@ Vertical Lines in EditText Like a NotePad :grin:
 	        implementation 'com.github.Sanaebadi97:NotePad:Tag'
 	}
 
+Current Release is 1.0.0 :relaxed:
 
 3.Usage in XML :
 
