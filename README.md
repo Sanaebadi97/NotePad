@@ -1,5 +1,5 @@
 # NotePad
-Vertical Lines in EditText Like NotePad
+Vertical Lines in EditText Like a NotePad :grin:
 
 
 1.add jitpack to your repositories
