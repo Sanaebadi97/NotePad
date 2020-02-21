@@ -38,5 +38,7 @@ Vertical Lines in EditText Like a NotePad :grin:
 	
 4.Output with strokeWidth =2 and  lineColor="@android:color/black"
 
+5.enjoy :heart:
+
 ![Screenshot_2020-02-19_15-42-33](https://user-images.githubusercontent.com/26750131/74833440-b34d2580-532e-11ea-9fed-a6a0b80e3aeb.png)
 
