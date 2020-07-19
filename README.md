@@ -11,7 +11,7 @@ Vertical Lines in EditText Like a NotePad :grin:
 		}
 	}
 	
-	
+	-----
   
   2.add dependencies to your build.gradle 
   
