@@ -2,6 +2,8 @@
 Vertical Lines in EditText Like a NotePad :grin:
 
 
+
+
 **1.add jitpack to your repositories**
 
 	allprojects {
@@ -21,7 +23,7 @@ Vertical Lines in EditText Like a NotePad :grin:
 	}
 
 --------
-**Current Release is 1.0.0 :relaxed:**
+
 
 3.Usage in XML :
 
