@@ -14,7 +14,7 @@ Vertical Lines in EditText Like a NotePad :grin:
 
 ---------
   
-  2.add dependencies to your build.gradle 
+  **2.add dependencies to your build.gradle **
   
   	dependencies {
 	        implementation 'com.github.Sanaebadi97:NotePad:Tag'
