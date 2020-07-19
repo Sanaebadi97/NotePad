@@ -1,6 +1,7 @@
 # NotePad
 Vertical Lines in EditText Like a NotePad :grin:
 
+**Current Release is 1.0.0 :relaxed:**
 
 
 
