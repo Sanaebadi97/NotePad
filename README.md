@@ -26,7 +26,7 @@ Vertical Lines in EditText Like a NotePad :grin:
 --------
 
 
-3.Usage in XML :
+**3.Usage in XML :**
 
     <sanaebadi.info.mnotepad.LineEditText
         android:layout_width="match_parent"
